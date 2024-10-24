@@ -1,0 +1,1 @@
+node new.js; node rm.js; node copy.js; node copy1.js

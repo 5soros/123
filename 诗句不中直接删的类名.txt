@@ -1,0 +1,11 @@
+诗句结果使用类名（一般用于肖，因为若肖不中，码中了也难看）
+ makesense
+
+诗句最大父元素使用类名
+ class="sentence"
+
+此2个类名都应该每天删除（附到b.js）
+
+b.js要使用重写的
+
+git remote add origin git@github.com:5soros/A-.git
